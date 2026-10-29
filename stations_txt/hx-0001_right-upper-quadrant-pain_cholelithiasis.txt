@@ -1,0 +1,55 @@
+hx-0001 | Gastrointestinal | Right upper quadrant pain -> cholelithiasis
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with upper abdominal pain.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Gemma Phillips
+Age: 42 DOB: 19/06/1984
+After introductions, in response to the student’s opening question or comment, please say:
+"Hello doctor, I’ve been getting these awful severe spasms of pain under my right ribs, and it happened again last night."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a 42-year-old primary school teacher and usually fit and well. Over the last three weeks, you have experienced three episodes of severe, crampy pain in the right upper part of your abdomen, just beneath your ribs.
+
+The pain typically comes on about an hour after eating an evening meal, especially after rich or fatty food—the first time was after fish and chips, and last night’s attack was after a takeaway korma curry. The pain builds rapidly to a crescendo over twenty minutes, remains severely intense for roughly two to three hours, and then gradually fades away completely, leaving you feeling washed out and tender. When it peaks, you would rate the pain as an 8 or 9 out of 10. During the attacks, the pain radiates through into your back and up towards your right shoulder blade. Paracetamol and ibuprofen do not seem to touch it; you find that clutching a hot water bottle while lying curled up gives a tiny amount of comfort.
+
+You feel distinctly nauseated during the episodes and vomited once last night, bringing up clear fluid and undigested food. However, you have had no high temperatures, chills, or shivers. You have not noticed any yellow tinge to your skin or the whites of your eyes. Your urine has remained its usual light straw colour and your stools look entirely normal brown (not pale or grey). You do not suffer from heartburn, burning indigestion, or pain when swallowing. Your bowel movements are regular with no blood or black tarry stools, and you have no urinary burning or loin pain.
+
+You have two children (aged 10 and 8), both born via uncomplicated vaginal deliveries. You have no other medical conditions and have never had abdominal surgery. You take the combined oral contraceptive pill (Microgynon 30) and occasional paracetamol. You have no known allergies to medications.
+
+You do not smoke. You drink 1 or 2 small glasses of wine on a Friday or Saturday night (around 4 units a week). Your diet has become a bit reliant on convenience food recently due to busy school terms. Your mother had her gallbladder removed when she was in her late forties due to gallstones.
+
+You are frightened that the pain might indicate a stomach ulcer or something sinister like bowel or stomach cancer because it is so severe. You are hoping the GP can work out what is going on and organise an ultrasound or prescribe something strong to stop the attacks.
+After the consultation has progressed a little please ask the following question
+“What do you think is causing these attacks, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. Could you briefly summarise your findings, and state your primary diagnosis and differential diagnoses?
+Answer: The candidate should summarise a 42-year-old female presenting with episodic right upper quadrant and epigastric pain provoked by fatty meals, radiating to the back/shoulder, accompanied by nausea, without fever or jaundice. The primary diagnosis is symptomatic cholelithiasis (biliary colic). Differential diagnoses include acute cholecystitis, peptic ulcer disease / gastritis, gastro-oesophageal reflux disease, or acute pancreatitis.
+2. What initial investigations would you recommend to confirm the diagnosis and check for complications?
+Answer: The candidate should recommend: 1) A transabdominal ultrasound of the upper abdomen/biliary tree (investigation of choice to identify gallstones, gallbladder wall thickening, or common bile duct dilatation), and 2) Blood tests including full blood count (FBC), liver function tests (LFTs including bilirubin and ALP), inflammatory markers (CRP), renal function (U&Es), and serum amylase/lipase to exclude complications such as cholecystitis, cholangitis, choledocholithiasis, or pancreatitis.
+Mark Sheet
+Asks about Site of the abdominal pain (right upper quadrant or epigastrium)
+Asks about Onset, duration, and episodic nature of the pain attacks
+Asks about Character and severity of the pain
+Asks about Radiation of the pain to the back, interscapular region, or right shoulder
+Asks about Aggravating factors, specifically fatty, heavy, or greasy food
+Asks about Relieving factors and response to over-the-counter analgesia
+Asks about Upper gastrointestinal symptoms: nausea or vomiting
+Asks about Systemic or infective symptoms: fever, rigors, or chills
+Asks about Signs of obstructive jaundice: yellowing of skin/eyes, pale stools, or dark urine
+Asks about Dyspeptic symptoms: heartburn, acid reflux, or indigestion
+Asks about Bowel habits and stool appearance: changes in frequency, diarrhoea, haematochezia, or melaena
+Asks about Past medical history and obstetric history / pregnancies
+Asks about Drug history (including oral contraceptives) and medication allergies
+Asks about Family history of gallstones or gastrointestinal pathology
+Asks about Social history: diet, alcohol intake, and smoking
+Asks about Ideas, concerns, and expectations (ICE)
+Examiner’s Questions
+1- Identifies symptomatic cholelithiasis (biliary colic) as the most likely primary diagnosis
+2- Provides a plausible differential diagnosis such as peptic ulcer disease, GERD, acute cholecystitis, or pancreatitis
+3- Recommends an abdominal ultrasound scan to evaluate for gallstones

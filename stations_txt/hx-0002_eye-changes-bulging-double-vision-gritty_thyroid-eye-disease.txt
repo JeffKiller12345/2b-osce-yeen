@@ -1,0 +1,55 @@
+hx-0002 | Endocrine and metabolic | Eye changes (bulging, double vision, gritty) -> thyroid eye disease
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with eye changes.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Chloe Davies
+Age: 38 DOB: 15/06/1988
+After introductions, in response to the student’s opening question or comment, please say:
+"My eyes have been feeling really sore and gritty recently, and they look quite strange in the mirror."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a 38-year-old primary school teacher. Over the last three to four months, you have noticed persistent discomfort in both eyes. They constantly feel gritty, dry, and irritated, like there is sand trapped under your eyelids. They water a lot in the wind, and bright sunlight has started to bother you so much that you have to wear sunglasses even on cloudy days. Over the past month, your eyelids have looked swollen and puffy, especially first thing in the morning.
+
+About six weeks ago, you started noticing that your eyes look prominent and 'staring' in photographs. A colleague at school even asked if you were feeling startled or surprised. Over the last two weeks, you have developed intermittent double vision, particularly when looking upwards or sideways when writing on the whiteboard. When you look upwards, there is also a dull, deep ache behind your eyeballs. Your vision itself is not completely blacked out, but it can be slightly blurry when the double vision happens. If asked specifically, your ability to see colours normally has not changed, and you have not had any crusting, yellow discharge, or fever.
+
+When asked about your general health over the last few months, you realise you have felt unusually hot and sweaty compared to everyone else, even keeping your classroom windows wide open. You have lost about 4 kg over the past four months despite having a healthy appetite. You have felt jittery, your hands have a fine tremble, and you frequently feel your heart fluttering or racing in your chest. Your periods have become lighter and slightly irregular, and your bowels have been opening twice a day with loose stools rather than your usual once a day. You had put much of this down to the stress of a recent school inspection.
+
+You have no significant past medical history and take no regular prescribed medications. You have tried over-the-counter sterile saline eye drops, which only gave temporary relief for a few minutes. You take occasional paracetamol for headaches. You have no known drug allergies.
+
+You smoke 15 cigarettes a day and have smoked for the last 18 years. You drink around 4 to 6 units of wine on weekends. You live with your partner and have no children. Your mother has an underactive thyroid and takes levothyroxine, and your maternal aunt had surgery on her neck for an overactive thyroid years ago.
+
+You wondered if you might have developed an allergy to the classroom hamster or chalk dust, or maybe chronic conjunctivitis. However, you are increasingly terrified that your eyes are permanently bulging out, which makes you feel self-conscious, and you worry you might lose your sight from the double vision. You hope the doctor can find out what is going on, give you stronger drops, and refer you to an eye specialist.
+After the consultation has progressed a little please ask the following question
+“What do you think is causing my eye problems, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What initial investigations would you arrange for this patient?
+Answer: Thyroid function tests (TSH, free T4, free T3) and TSH receptor antibodies (TRAb). Assessment of visual acuity and colour vision (e.g. Ishihara plates to check for optic nerve compression). Urgent referral to an ophthalmologist or dedicated joint thyroid-eye clinic.
+2. Outline your management plan for this patient.
+Answer: Strongly advise and support smoking cessation (the most important modifiable risk factor). Provide symptomatic relief (artificial tears/ocular lubricants, sunglasses, head elevation at night). Refer urgently to ophthalmology/specialist thyroid eye disease clinic. Refer to endocrinology for medical management of hyperthyroidism (e.g. antithyroid drugs such as carbimazole). Explain red flag symptoms of sight loss requiring emergency review.
+Mark Sheet
+Asks about Onset, duration, and progression of the eye symptoms
+Asks about Gritty sensation, dryness, or excessive watering
+Asks about Bulging, protrusion, or staring appearance of the eyes (proptosis)
+Asks about Double vision (diplopia) and pain on eye movement
+Asks about Red flag symptoms: significant visual loss or changes in colour vision
+Asks about Eyelid swelling, redness, or morning puffiness
+Asks about Photophobia or sensitivity to light
+Asks about Heat intolerance or excessive sweating
+Asks about Unintentional weight loss or changes in appetite
+Asks about Palpitations, tremor, or anxiety
+Asks about Bowel frequency changes or menstrual irregularities
+Asks about Past medical history
+Asks about Drug history and allergies: both
+Asks about Smoking history: quantity and duration
+Asks about Family history: of thyroid or autoimmune conditions
+Asks about Ideas, concerns, and expectations
+Examiner’s Questions
+1- Recommends thyroid function tests (TFTs) and/or TSH receptor antibodies (TRAb)
+2- Identifies the need for ophthalmic assessment (visual acuity, colour vision, or urgent ophthalmology referral)
+3- Emphasises smoking cessation and supportive ocular care (e.g. lubricating eye drops)

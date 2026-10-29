@@ -1,0 +1,55 @@
+hx-0008 | Neurological | Tremor and movement disorders -> Parkinson's
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with tremor in the right hand.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Robert Davies
+Age: 58 DOB: 15/03/1968
+After introductions, in response to the student’s opening question or comment, please say:
+"Doctor, I've noticed a shaking in my right hand over the last few months and it's starting to worry me."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a 58-year-old surveyor and have generally been fit and well. You enjoy walking and gardening, though you feel like everyday physical tasks have started taking you longer over the past twelve months.
+
+About eight months ago, you noticed an intermittent trembling in your right hand. It is most obvious when you are resting, such as sitting back in a chair watching the television or sitting in team meetings with your hands on your lap. When you deliberately reach out to pick up a mug or type, the shaking tends to settle down, but your right fingers feel somewhat stiff and clumsy. You have also noticed that your handwriting has become noticeably smaller, cramped, and untidy across the page. For nearly a year, your right shoulder and arm have felt tight and aching; your physiotherapist wondered if it was a frozen shoulder, but the exercises did not relieve it. When walking, your wife pointed out that you keep your right arm still rather than swinging it, and your right foot sometimes scuffs or drags slightly when you are tired.
+
+The tremor does not affect your left hand, your head, or your voice. Having an alcoholic drink does not reduce or stop the tremor. You have had no falls, blackouts, or unsteadiness when standing up. You have no double vision or trouble looking up or down, and you have no difficulty swallowing or choking on food. Your memory, concentration, and thinking are completely normal. You have had no heat intolerance, sweating, or heart palpitations, and your bladder and bowels work without any sudden leakage or difficulty.
+
+Thinking back, you lost most of your sense of smell two or three years ago; you can barely smell petrol or fresh coffee. Your wife has also complained that over the last year you have been restless at night, frequently shouting, thrashing, and kicking your legs during vivid dreams. You have also suffered from dry, infrequent bowel motions (constipation) for the past year, which was never an issue before.
+
+You have high blood pressure, diagnosed five years ago, which is well controlled. You have never had a stroke or serious head injury. You take bendroflumethiazide 2.5 mg once daily. You do not take any regular indigestion remedies, anti-sickness tablets (like metoclopramide or prochlorperazine), or psychiatric medications. You have no known allergies.
+
+Neither of your parents nor your two brothers have ever had tremors, Parkinson's disease, or any neurological problems. You have never smoked cigarettes. You drink around 4 to 6 units of alcohol per week (a couple of pints of bitter on weekends). You live with your wife in a two-storey house. You are worried that this shaking might be Parkinson's disease, as a former work colleague had it, and you are anxious about losing manual dexterity and having to give up work as a surveyor. You expect the doctor to explain what is likely going on and refer you for the right tests.
+After the consultation has progressed a little please ask the following question
+“What do you think is the cause and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What are the appropriate next steps in investigating and establishing the diagnosis for this patient?
+Answer: The candidate should recognise that Parkinson's disease is primarily a clinical diagnosis and explain that NICE guidelines recommend urgent specialist referral (neurologist or elderly care movement disorder specialist) before initiating anti-parkinsonian pharmacotherapy. If diagnostic uncertainty remains after specialist clinical assessment, a 123I-FP-CIT SPECT (DaTscan) or MRI brain may be considered to differentiate from essential tremor or secondary/atypical parkinsonism.
+2. If Parkinson's disease is confirmed by the specialist, how would you approach the overall management plan?
+Answer: The candidate should outline a multidisciplinary approach, including referral to a Parkinson's disease nurse specialist, physiotherapy, occupational therapy, and signposting to Parkinson's UK. Pharmacological options should be discussed based on symptom severity and patient priorities (levodopa with a dopa-decarboxylase inhibitor, non-ergot dopamine agonists, or MAO-B inhibitors). The candidate should also mention advising the patient to inform the DVLA and their motor insurer.
+Mark Sheet
+Asks about Onset, duration, and progression of the tremor
+Asks about Timing and character of the tremor (resting tremor versus postural or action tremor)
+Asks about Laterality and asymmetry of symptoms (unilateral onset in the right upper limb)
+Asks about Dexterity and bradykinesia (slowness with fine hand movements, typing, or buttoning)
+Asks about Handwriting changes (micrographia or small, cramped writing)
+Asks about Muscle stiffness, limb heaviness, or shoulder tightness
+Asks about Gait changes: at least two of reduced arm swing, foot dragging/scuffing, shuffling, or balance difficulties
+Asks about Non-motor features: at least two of loss of smell (hyposmia), sleep disturbances/acting out dreams (RBD), and constipation
+Asks about Atypical parkinsonism red flags: at least two of early falls, vertical gaze palsy/vision changes, autonomic failure (orthostatic dizziness/urinary incontinence), or swallowing difficulties
+Asks about Features of alternative tremor causes: at least two of alcohol responsiveness, head or voice tremor, or hyperthyroid symptoms (e.g. palpitations, heat intolerance)
+Asks about Cognitive, mood, or psychiatric symptoms (memory decline, hallucinations, depression)
+Asks about Past medical history (including cardiovascular disease, head trauma, or stroke)
+Asks about Drug history (specifically dopamine-receptor antagonists such as antiemetics or antipsychotics) and allergies: both
+Asks about Family history of tremor, Parkinson's disease, or movement disorders
+Asks about Social history: at least two of occupation, functional impact on daily life, smoking, and alcohol intake
+Asks about Ideas, concerns and expectations
+Examiner’s Questions
+1- Recommends referral to a specialist (neurology or movement disorder clinic) prior to initiating antiparkinsonian medication
+2- Suggests neuroimaging (MRI brain or DaTscan / dopamine transporter SPECT) if diagnostic uncertainty remains
+3- Discusses first-line pharmacological options (levodopa, dopamine receptor agonists, or MAO-B inhibitors) and multidisciplinary team support (e.g. Parkinson's nurse specialist, physiotherapy)

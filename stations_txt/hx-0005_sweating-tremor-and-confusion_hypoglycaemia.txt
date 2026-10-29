@@ -1,0 +1,57 @@
+hx-0005 | Endocrine and metabolic | Sweating, tremor and confusion -> hypoglycaemia
+
+=== CANDIDATE INFORMATION ===
+You are in the Emergency Department.
+Take a focused history from this patient with sweating and confusion.
+
+=== PATIENT INFORMATION ===
+You are in the Emergency Department.
+Name: Tariq Mahmood
+Age: 58 DOB: 13/12/1967
+After introductions, in response to the student’s opening question or comment, please say:
+"I gave my wife a terrible fright earlier today; I became terribly shaky, broke out in a sweat, and went completely muddled."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a 58-year-old accountant who is usually in reasonably good health. Earlier today around 2:00 PM, while helping your son move heavy garden furniture, you suddenly felt extremely unwell. You broke out in a cold, drenching sweat and noticed a vigorous tremor in both hands. Your heart felt like it was racing in your chest and you felt ravenously hungry.
+
+Within ten minutes, you became dizzy and lightheaded. Your wife tells you that you became confused, repetitive, and disorientated, asking if you needed to submit tax returns and slurring your words slightly. You have no memory of about fifteen minutes of this period. Your wife immediately recognised something was wrong, sat you down, and gave you a large glass of regular full-sugar cola and two biscuits. Within 15 minutes of drinking the cola, the sweating, shaking, and confusion completely cleared up. Your wife insisted on bringing you to the Emergency Department.
+
+You had skipped lunch today because you were busy in the garden, having only had a small bowl of porridge at 7:00 AM. You have never had an episode like this before and have never had "hypo" symptoms previously. You did not collapse, lose consciousness, bite your tongue, or wet yourself. You had no chest tightness, shortness of breath, headache, facial droop, or weakness in your arms or legs. You have had no fever, cough, burning with urination, or recent illnesses.
+
+You have a history of Type 2 diabetes diagnosed four years ago and high blood pressure. At your routine diabetic review ten days ago, your practice nurse noted your sugar levels were running high and added a new tablet called gliclazide (40 mg once daily with breakfast) to your usual metformin. You also take ramipril 5 mg once daily and atorvastatin 20 mg once daily. You have no allergies.
+
+You do not smoke. You drink 2 to 3 units of alcohol over the weekend, but you have had none today or yesterday. You drive a car to work every day. There is a family history of Type 2 diabetes in your mother, but no history of epilepsy or stroke.
+
+You are worried that you might have suffered a stroke, "mini-stroke" (TIA), or early dementia. You are eager to know what caused this sudden turn and whether your medications need changing.
+After the consultation has progressed a little please ask the following question
+“What do you think is the cause and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. Could you briefly summarise your findings from this history?
+Answer: Candidate should summarise a 58-year-old man with Type 2 diabetes who experienced an acute episode of autonomic and neuroglycopenic symptoms (sweating, tremor, palpitations, confusion) precipitated by unaccustomed physical exertion and a missed meal, shortly after the initiation of gliclazide, which resolved promptly with oral carbohydrates.
+2. What is the most likely diagnosis and what other differentials should be considered?
+Answer: The primary diagnosis is drug-induced hypoglycaemia (secondary to gliclazide, compounded by missed meal and exertion). Differentials to consider include transient ischaemic attack (TIA), focal or generalised seizure, cardiac arrhythmia, or an acute panic attack.
+3. What are your key immediate and safe discharge steps for managing this patient?
+Answer: Immediate: check capillary blood glucose and vital signs, offer long-acting carbohydrate snack. Review and adjust medication (e.g. reduce or hold gliclazide). Provide hypoglycaemia education (symptoms, carrying fast-acting glucose). Crucially advise on driving safety and DVLA rules (must not drive until safe, group 1 driving guidance for sulfonylureas).
+Mark Sheet
+Asks about Onset, timing, and duration of the episode
+Asks about Autonomic symptoms: at least two of sweating, tremor, palpitations, hunger
+Asks about Neuroglycopenic symptoms: at least two of confusion, disorientation, slurred speech, dizziness
+Asks about Potential triggers: delayed or missed meals and unaccustomed physical activity
+Asks about Relieving factors and response to sugary food or drink
+Asks about Previous similar episodes or awareness of low blood sugar symptoms
+Asks about Neurological features of TIA or stroke: facial droop, limb weakness, sensory disturbance
+Asks about Seizure symptoms: loss of consciousness, involuntary movements, tongue biting, urinary incontinence
+Asks about Cardiovascular symptoms: chest pain, dyspnoea, or syncope
+Asks about Infective symptoms or systemic unwellness: fever, cough, dysuria
+Asks about Past medical history: diabetes history and control, hypertension, cardiovascular disease
+Asks about Drug history: specifically enquiring about recent additions or dose increases (gliclazide) and allergies
+Asks about Driving status and occupation
+Asks about Social history: alcohol intake and smoking
+Asks about Family history: diabetes, cardiovascular disease, or neurological conditions
+Asks about Ideas, concerns, and expectations regarding the episode
+Examiner’s Questions
+1- Provides a concise summary highlighting the acute neuroglycopenic and autonomic symptoms resolving with carbohydrate intake
+2- Identifies hypoglycaemia secondary to gliclazide (sulfonylurea) as the primary differential diagnosis
+3- Mentions reviewing/modifying diabetes medication (gliclazide) or advising on driving regulations and DVLA guidance

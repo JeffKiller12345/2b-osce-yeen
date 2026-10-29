@@ -1,0 +1,59 @@
+hx-0007 | Gastrointestinal | Constipation -> hypercalcaemia
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with constipation.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Patricia Clarke
+Age: 64 DOB: 17/09/1962
+After introductions, in response to the student’s opening question or comment, please say:
+"Doctor, my bowels have completely ground to a halt over the last month and I just feel so drained."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a retired primary school teacher and live with your husband. You are usually relatively active, enjoying gardening and walking, but over the last 4 to 6 weeks you have felt increasingly unwell.
+
+Your main problem is worsening constipation that started about six weeks ago. You used to open your bowels comfortably every morning, but now it only happens once every four or five days. Your stools are hard, lumpy (like pebbles), and very difficult to pass. You have tried drinking extra prune juice, eating more fruit and bran, and taking over-the-counter senna tablets, but none of these have helped much. You have not noticed any blood mixed with your stool or on the toilet paper, and no dark black tarry stools. You have a constant vague, dull ache in your lower abdomen and you feel bloated, but you have had no severe sharp abdominal pain and no vomiting, though you have felt mildly nauseous and off your food.
+
+Alongside the bowel problem, you have felt profoundly tired and lethargic for the past month. You have noticed that you are drinking huge amounts of water because your mouth feels constantly parched, and as a result, you are waking up three or four times every night to pass urine. You have also had dull, persistent aching in your lower back, hips, and shins that paracetamol doesn't touch. Your mood has been unusually low and you feel mentally sluggish and forgetful, which is quite out of character for you. You have not had fever, night sweats, coughing, shortness of breath, or noticeable unintentional weight loss (maybe a couple of pounds because your appetite has dipped).
+
+You have mild osteoarthritis in your knees and had mild hypertension diagnosed two years ago. You have never had bowel surgery or kidney problems, and no history of kidney stones. You take bendroflumethiazide 2.5 mg once daily in the morning for your blood pressure, and occasional paracetamol for your knee aches. You also started taking an over-the-counter multivitamin and calcium/vitamin D supplement about three months ago for bone health. You have no drug allergies.
+
+Your father died of a heart attack in his late seventies. Your mother had osteoporosis. There is no family history of bowel cancer, inflammatory bowel disease, or endocrine tumours.
+
+You have never smoked cigarettes. You drink two small glasses of red wine on a weekend. You live in a two-storey house with your husband and are normally independent with all daily activities, but recently you haven't had the energy to do household chores.
+
+You are worried that you might have bowel cancer like one of your former teaching colleagues who recently passed away. You are hoping the doctor can find out what is going on and prescribe something effective to relieve the constipation.
+After the consultation has progressed a little please ask the following question
+“What do you think is causing all this and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. Could you briefly summarise your findings and outline the most likely differential diagnoses?
+Answer: Candidate should summarise a 64-year-old female presenting with subacute constipation associated with polyuria, polydipsia, lethargy, generalised bone pain, and low mood. Candidate should identify hypercalcaemia (secondary to primary hyperparathyroidism, thiazide diuretic use, calcium supplementation, or underlying malignancy) as the primary unifying diagnosis, whilst also acknowledging colorectal malignancy, medication-induced constipation, or hypothyroidism as important differential diagnoses.
+2. What immediate investigations would you arrange to establish the diagnosis?
+Answer: Candidate should recommend urgent routine blood tests including serum adjusted/corrected calcium, phosphate, urea and electrolytes (renal function), alkaline phosphatase, full blood count, and thyroid function tests. Follow-up investigations should include serum parathyroid hormone (PTH) level, vitamin D, and consideration of an ECG to check for QT interval shortening.
+3. If blood tests confirm significant hypercalcaemia, how would you manage this patient?
+Answer: Candidate should explain the need for hospital assessment/admission for urgent intravenous fluid rehydration (0.9% normal saline) to restore volume and promote renal calcium excretion. They should mention withholding offending medications (e.g., bendroflumethiazide and calcium supplements), monitoring cardiac rhythm, and considering intravenous bisphosphonates if hypercalcaemia is severe or malignancy-related.
+Mark Sheet
+Asks about the duration, frequency, and consistency of bowel motions
+Asks about presence of rectal bleeding, melaena, or stool mucus
+Asks about abdominal symptoms including pain, bloating, nausea, or vomiting
+Asks about urinary symptoms specifically increased frequency, volume, or nocturia
+Asks about increased thirst and daily fluid intake
+Asks about systemic symptoms including fatigue, lethargy, or unintentional weight loss
+Asks about musculoskeletal symptoms such as bone, joint, or generalised body aches
+Asks about neuropsychiatric symptoms including mood changes, confusion, or memory issues
+Asks about dietary fibre intake and use of over-the-counter laxatives
+Asks about red-flag malignancy features such as night sweats, lumps, or respiratory symptoms
+Asks about past medical history including kidney stones, hypertension, or bowel conditions
+Asks about regular prescribed medications, specifically asking about diuretics or antihypertensives
+Asks about over-the-counter supplements, specifically calcium or vitamin D preparations
+Asks about drug allergies
+Asks about family history, particularly of bowel cancer or endocrine disease
+Asks about ideas, concerns, and expectations
+Examiner’s Questions
+1- Identifies hypercalcaemia as the most likely unifying diagnosis
+2- Proposes checking serum adjusted/corrected calcium alongside urea, electrolytes, and parathyroid hormone (PTH)
+3- Identifies intravenous fluid rehydration with 0.9% saline as the initial medical management and withholding bendroflumethiazide or calcium supplements

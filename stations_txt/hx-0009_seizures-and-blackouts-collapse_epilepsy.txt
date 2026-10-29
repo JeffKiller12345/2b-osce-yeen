@@ -1,0 +1,59 @@
+hx-0009 | Neurological | Seizures and blackouts (collapse) -> epilepsy
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with blackouts.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Marcus Vance
+Age: 23 DOB: 25/02/2003
+After introductions, in response to the student’s opening question or comment, please say:
+"My partner made me book this appointment because I had another blackout yesterday evening."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a 23-year-old graphic designer and you are generally healthy. Yesterday evening around 8:00 pm, you were sitting on the sofa watching television with your partner. You suddenly experienced an odd, intense rising sensation in your stomach, almost like a wave of nausea or nervousness that you could not explain. Seconds later, you completely lost consciousness.
+
+According to your partner, your body went stiff, your eyes rolled back, and then your arms and legs jerked rhythmically for around two minutes. When you came to, you felt profoundly exhausted, confused, and could not remember what day it was or what had happened. It took about 45 minutes for your head to feel clear again. You noticed that you had bitten the left side of your tongue, which was bleeding and remains very sore today. You also noticed that you had wet yourself during the episode. Today, your entire body feels battered and your muscles ache.
+
+You had a similar episode four months ago. You were at home alone on a Saturday morning after staying up late working; you woke up on the bedroom floor with a bruised shoulder and a bitten tongue. You assumed at the time that you had just fainted or tripped over, so you did not seek medical attention.
+
+You did not have any chest pain, palpitations, shortness of breath, dizziness, lightheadedness, sweating, or blurred vision before collapsing yesterday. You were not dehydrated or standing up when it occurred. You have had no fever, stiff neck, persistent headaches, or weakness in your arms or legs.
+
+You have no major medical history, although you had mild asthma as a child. You suffered a mild concussion playing rugby at age 17, from which you recovered fully with no hospital admission. You take no regular prescription medications and use a salbutamol inhaler once or twice a year if exposed to cats. You have no known allergies.
+
+Your maternal uncle was diagnosed with seizures in his twenties and takes daily medication for it. There is no family history of sudden unexplained cardiac death or heart conditions.
+
+You live with your partner in a flat. You work full-time as a graphic designer, which involves driving about 20 minutes to work each day. You smoke around five cigarettes a day, drink about 10 units of alcohol per week (mainly at weekends), and you have never used recreational drugs. The night before yesterday's episode, you had slept poorly and were awake until 3:00 am finishing a project deadline.
+
+You are worried that these episodes might be epilepsy or something serious like a brain tumour. You are particularly concerned about your driving licence, as you rely on your car for work.
+After the consultation has progressed a little please ask the following question
+“What do you think is causing these blackouts, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What is the most likely diagnosis, and what other differential diagnoses should be considered?
+Answer: The most likely diagnosis is epilepsy (unprovoked generalised tonic-clonic seizures, possibly focal onset with secondary bilateral tonic-clonic progression given the epigastric aura). Important differentials include convulsive vasovagal syncope, cardiogenic syncope (e.g. secondary to arrhythmia), and functional neurological disorder / non-epileptic attack disorder (NEAD).
+2. What are your immediate management steps and advice for this patient today?
+Answer: Candidates must advise the patient to stop driving immediately and inform the DVLA. They should give safety advice regarding bathing, swimming, and heights. Immediate investigations include routine bloods (FBC, U&Es, LFTs, glucose, calcium) and a 12-lead ECG. The patient requires urgent outpatient referral to a neurologist or First Seizure Clinic for specialist evaluation (including consideration of MRI brain and EEG).
+Mark Sheet
+Asks about Circumstances and posture immediately preceding the collapse
+Asks about Prodromal symptoms or aura (e.g. epigastric rising sensation, déjà vu, or absence of presyncope)
+Asks about Witness account of motor activity (e.g. tonic stiffening, rhythmic clonic jerking, duration)
+Asks about Tongue biting and specifies lateral margin versus tip
+Asks about Urinary or faecal incontinence during the episode
+Asks about Post-ictal state (e.g. confusion, drowsiness, duration until baseline recovery)
+Asks about Symptoms after recovery (e.g. generalized muscle aches, headache, injury)
+Asks about Previous episodes of blackouts, funny turns, or waking up on the floor
+Asks about Vasovagal or cardiac features (at least two of: palpitations, chest pain, prolonged standing, heat)
+Asks about Potential precipitants or triggers (at least two of: sleep deprivation, flickering lights, alcohol, recreational drugs)
+Asks about Neurological red flags (at least two of: persistent headache, focal weakness, numbness, neck stiffness)
+Asks about Driving status and occupational safety risks (e.g. driving, working at heights, operating machinery)
+Asks about Past medical history (including childhood febrile convulsions, meningitis, or head injury)
+Asks about Drug history (including over-the-counter medicines) and allergies
+Asks about Family history of seizures, epilepsy, or sudden unexplained death
+Asks about Ideas, concerns, and expectations
+Examiner’s Questions
+1- Identifies epilepsy or unprovoked tonic-clonic seizures as the primary diagnosis
+2- Provides at least one plausible alternative differential diagnosis (e.g. vasovagal syncope, cardiac syncope/arrhythmia, non-epileptic attack disorder)
+3- Advises immediate cessation of driving and informing the DVLA

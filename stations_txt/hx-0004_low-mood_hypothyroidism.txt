@@ -1,0 +1,53 @@
+hx-0004 | Mental health | Low mood -> hypothyroidism
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with low mood.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Nicola Campbell
+Age: 42 DOB: 01/04/1984
+After introductions, in response to the student’s opening question or comment, please say:
+"I've just been feeling really low and exhausted lately, and I'm struggling to get through each day."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a primary school teacher and usually active and healthy. Over the past three to four months, you have developed a persistent low mood and profound fatigue that has crept up on you. You find yourself feeling flat and tearful, and you have lost all enthusiasm for activities you normally enjoy, such as gardening and reading with your book club. You feel mentally sluggish and struggle to plan your lessons or stay focused in the classroom. You are sleeping nine to ten hours a night but still wake up feeling completely unrefreshed, although you do not wake up abnormally early in the morning.
+
+Despite having a slightly reduced appetite, you have noticed that your clothes are tight and you have gained about 4 kg over the last few months. You feel persistently cold and are always the one turning the thermostat up at home or wearing extra woollen jumpers when others are comfortable. Your bowels have become sluggish, and you are troubled by constipation, opening your bowels only every three to four days with hard, difficult-to-pass stools. Your menstrual periods have also changed over the past five months; they have become notably heavier and arrive every 24 to 26 days instead of your usual 28 days. You have also noticed your skin feels excessively dry and rough, and your hair has been shedding more than usual when you brush it.
+
+You do not have any thoughts of self-harm, suicide, or wanting to end your life. You do not feel worthless or excessively guilty, and you have never experienced episodes of abnormally elevated mood, bursts of hyperactivity, hearing voices, or paranoia. You have not had any fever, night sweats, neck lumps, chest pain, or shortness of breath.
+
+You have a past medical history of coeliac disease, diagnosed six years ago, which is strictly managed on a gluten-free diet with no recent abdominal pain or diarrhoea. You have no other medical conditions. You take an over-the-counter multivitamin and have no known drug allergies. Your mother has an underactive thyroid (Hashimoto's thyroiditis), and a maternal aunt has vitiligo.
+
+You live with your husband and two teenage children. You are a non-smoker, drink one or two small glasses of wine on a Saturday evening, and have never taken recreational drugs. You are worried that you might be burning out from teaching or sliding into severe depression, but you also wonder whether your hormones are playing up and whether this could be an early menopause. You hope the doctor can run some blood tests to check if there is an underlying physical reason for your exhaustion and low mood.
+After the consultation has progressed a little please ask the following question
+“What do you think is causing this, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. Please summarise your key clinical findings and provide your differential diagnosis.
+Answer: The candidate should summarise a 42-year-old woman presenting with low mood and fatigue, alongside systemic features of hypothyroidism: unexplained weight gain, cold intolerance, constipation, menorrhagia, dry skin, and hair loss, with background coeliac disease and family history of autoimmune thyroid disease. Primary differential: primary hypothyroidism (autoimmune/Hashimoto's thyroiditis). Key differentials to consider: major depressive disorder, perimenopause, iron deficiency anaemia, or coeliac flare/malabsorption.
+2. What initial investigations would you arrange, and what is your management plan if your suspected diagnosis is confirmed?
+Answer: Order blood tests including thyroid function tests (TSH, free T4), full blood count, and ferritin (to exclude anaemia). If primary hypothyroidism is confirmed (elevated TSH, low free T4), start oral levothyroxine (typically 50-100 micrograms once daily before breakfast). Explain that symptom resolution takes several weeks. Plan repeat thyroid function tests in 6 to 8 weeks to titrate therapy, and provide safety-netting regarding mood deterioration or red flag depressive symptoms.
+Mark Sheet
+Asks about Onset, duration, and trajectory of the low mood and fatigue
+Asks about Core depressive symptoms: anhedonia (loss of pleasure/interest) and anergia (low energy)
+Asks about Biological depressive symptoms: sleep pattern (including hypersomnia) and appetite changes
+Asks about Cognitive symptoms: poor concentration, slowed thinking, or brain fog
+Asks about Risk assessment: thoughts of self-harm, suicide, or hopelessness
+Asks about Manic or psychotic symptoms: elevated mood, grandiosity, hallucinations, or unusual beliefs
+Asks about Weight changes or unexplained weight gain
+Asks about Temperature sensitivity: cold intolerance
+Asks about Bowel habit changes: constipation
+Asks about Menstrual history: changes in cycle regularity, duration, or menorrhagia
+Asks about Integumentary changes: dry skin or hair thinning/loss
+Asks about Past medical history: specifically autoimmune conditions such as coeliac disease
+Asks about Drug history and allergies: prescribed medications, over-the-counter supplements, and allergies
+Asks about Family history: thyroid disease or other autoimmune conditions
+Asks about Social history: occupation, living arrangements, alcohol, and recreational drug use
+Asks about Ideas, concerns and expectations
+Examiner’s Questions
+1- Identifies primary hypothyroidism as the most likely underlying diagnosis
+2- Mentions at least one other plausible differential diagnosis (e.g. major depressive disorder, perimenopause, or anaemia)
+3- Recommends thyroid function tests (TSH and free T4) and starting levothyroxine if confirmed

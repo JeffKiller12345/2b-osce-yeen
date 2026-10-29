@@ -1,0 +1,55 @@
+hx-0006 | Haematology | Recurrent infections -> other malignancies
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with recurrent infections.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Arthur Wood
+Age: 67 DOB: 15/04/1959
+After introductions, in response to the student’s opening question or comment, please say:
+"I've had three chest infections in the last four months, doctor, and I just can't seem to get my energy back."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a retired secondary school science teacher and used to be reasonably active. Over the past four months, you have had three distinct chest infections. Each time you developed a productive cough with greenish phlegm, mild feverishness, and wheeze, requiring a course of amoxicillin or doxycycline from the GP. While the antibiotics cleared the acute chestiness, you never felt like you bounced back fully, and the infections keep recurring every few weeks.
+
+Alongside these infections, you have developed deep, nagging lower back pain over the last three months. It is worse when you walk or bend to do light gardening and eases slightly when you lie flat. You initially put it down to wear-and-tear or lifting compost bags, but paracetamol barely touches it. Crucially, you have no pain shooting down your legs, no numbness around your groin or buttocks, no leg weakness, and no problems controlling your bladder or bowels.
+
+Over the same timeframe, you have been profoundly fatigued, feeling washed out even after a full night's sleep. You have noticed you are drinking far more water than usual because your mouth constantly feels dry, and you have become prone to constipation over the past month. You have unintentionally lost about 4 kg over the past twelve weeks. You have not had drenching night sweats, swollen glands in your neck or armpits, unusual bruising, nosebleeds, or blood in your urine or stools.
+
+You have a history of mild hypertension diagnosed eight years ago and bilateral knee osteoarthritis. You take amlodipine 5 mg once daily and occasional paracetamol 1 g for your knees. You have no drug allergies.
+
+You live with your wife in a two-storey house. You are an ex-smoker; you stopped smoking 20 years ago having smoked around 10 cigarettes a day for 15 years. You drink roughly 4 to 6 units of red wine per week. Your father died of colon cancer at age 79 and your mother had a stroke in her eighties; there is no family history of blood or bone marrow cancers.
+
+You are worried that your immune system is failing or that there might be an underlying cancer causing your infections, weight loss, and back ache. You are hoping the doctor will run some blood tests and get to the bottom of why your body cannot fight off these bugs.
+After the consultation has progressed a little please ask the following question
+“What do you think is the cause of all these infections and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What is your primary working diagnosis and what differential diagnoses would you consider?
+Answer: The primary diagnosis is multiple myeloma (suggested by recurrent infections from immunoparesis, persistent inflammatory/mechanical back pain, normocytic anaemia/fatigue, and symptoms of hypercalcaemia such as thirst and constipation). Differential diagnoses include: chronic lymphocytic leukaemia (CLL) or non-Hodgkin lymphoma, bony metastases (e.g. from prostate or lung cancer), primary or secondary immunodeficiency (e.g. hypogammaglobulinaemia, HIV), and chronic respiratory disease (e.g. bronchiectasis).
+2. What initial investigations would you arrange to investigate this presentation?
+Answer: Blood tests: full blood count (anaemia, cytopenias), U&Es (renal function/impairment), bone profile (corrected calcium for hypercalcaemia), ESR or plasma viscosity, serum protein electrophoresis and serum free light chain assay. Urine: urine protein electrophoresis / Bence-Jones protein. Imaging: targeted plain radiographs (e.g. lumbar spine) or urgent whole-body low-dose CT / MRI spine if cord compression suspected. Referral: urgent suspected cancer pathway (2-week wait) referral to haematology.
+Mark Sheet
+Asks about Frequency, timing, and nature of the recurrent infections (including response to antibiotics)
+Asks about Current respiratory symptoms: cough, sputum colour, haemoptysis, or breathlessness
+Asks about Bone or back pain: site, duration, and aggravating or relieving factors
+Asks about Spinal cord compression red flags: limb weakness, sensory disturbance/numbness, or bowel/bladder dysfunction
+Asks about Symptoms of hypercalcaemia: thirst/polydipsia, polyuria, constipation, nausea, or confusion
+Asks about Anaemia symptoms: fatigue, lethargy, light-headedness, or exertional shortness of breath
+Asks about Systemic 'B' symptoms: fever, drenching night sweats, and unintentional weight loss
+Asks about Bleeding or bruising tendency: easy bruising, petechiae, nosebleeds, or bleeding gums
+Asks about Lymphadenopathy: asks about lumps or swelling in the neck, armpits, or groin
+Asks about Renal or urinary symptoms: macroscopic haematuria, frothy urine, or oliguria
+Asks about Past medical history
+Asks about Drug history and allergies: both
+Asks about Smoking history: pack-years or past smoking status
+Asks about Alcohol intake and occupation or baseline functional status
+Asks about Family history: of haematological disorders or malignancy
+Asks about Ideas, concerns and expectations
+Examiner’s Questions
+1- Identifies multiple myeloma as the primary working diagnosis
+2- Mentions at least one plausible differential diagnosis such as lymphoma/leukaemia, bone metastases, or primary/secondary immunodeficiency
+3- Specifies serum protein electrophoresis and/or serum free light chains (or Bence-Jones protein / urine protein electrophoresis)

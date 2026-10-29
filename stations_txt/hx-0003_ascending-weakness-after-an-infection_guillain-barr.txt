@@ -1,0 +1,57 @@
+hx-0003 | Neurological | Ascending weakness after an infection -> Guillain-Barré
+
+=== CANDIDATE INFORMATION ===
+You are in the Acute Medical Unit.
+Take a focused history from this patient with weakness in legs.
+
+=== PATIENT INFORMATION ===
+You are in the Acute Medical Unit.
+Name: David Campbell
+Age: 44 DOB: 21/02/1982
+After introductions, in response to the student’s opening question or comment, please say:
+"Doctor, my legs have become really weak over the last couple of days, and now I have noticed tingling in my fingers as well."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a secondary school history teacher and are usually fit, active, and well. Three days ago, you began noticing a pins and needles sensation in both feet and toes. By the following morning, both your legs felt heavy and weak. Over the last 48 hours, this weakness has climbed rapidly up your legs. You now struggle significantly to stand from a low chair and cannot manage the stairs at home without leaning heavily on the bannister. Yesterday evening, the tingling spread into both of your hands, and your grip feels noticeably weaker when holding a pen or opening a jar.
+
+Approximately two and a half weeks ago, you suffered a severe bout of gastroenteritis with profuse diarrhoea and stomach cramps after eating barbecued chicken. That illness completely resolved after four or five days, and you felt completely back to normal until this weakness began.
+
+You have not had any back pain, neck pain, or injury to your spine. You have had no problems controlling your bladder or bowels, with no incontinence and no difficulty passing urine. You have not noticed any facial droop, visual disturbance, double vision, or trouble speaking, chewing, or swallowing. However, this morning you noticed you felt a little breathless when trying to talk in full sentences or when lying flat. You do not have a fever, headache, or stiff neck. You have never had any episodes of muscle weakness or numbness in the past.
+
+You have a mild history of asthma, which is well controlled; you only use a salbutamol inhaler once or twice a year when you have a cold. You do not take any regular prescription medications, over-the-counter supplements, or illicit substances. You have no known drug or environmental allergies.
+
+There is no family history of neurological conditions, autoimmune disease, or muscle disorders. Your father died in his seventies from ischaemic heart disease.
+
+You live with your wife and two teenage children in a two-storey house. You are a non-smoker and drink approximately 4 to 6 units of alcohol per week (a pint or two of beer on weekends). Prior to this episode, you ran 5 kilometres twice a week.
+
+You are extremely anxious because the weakness seems to be progressing upwards every day. You wonder whether this is related to the recent food poisoning or if you have trapped a nerve in your spine. Your main concern is that the weakness will reach your chest and stop you from breathing properly, or that you might end up permanently paralysed. You expect the doctors to admit you, run tests to find out what is causing this rapid deterioration, and start treatment to stop it spreading further.
+After the consultation has progressed a little please ask the following question
+“What do you think is the cause, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What is the most likely diagnosis, and what other differential diagnoses would you consider?
+Answer: The most likely diagnosis is Guillain-Barré syndrome (acute inflammatory demyelinating polyneuropathy), supported by symmetrical ascending motor weakness, distal paraesthesias, and a recent campylobacter-type diarrhoeal illness. Differentials include spinal cord compression, transverse myelitis, cauda equina syndrome, myasthenia gravis, hypokalaemic periodic paralysis, and functional neurological disorder.
+2. What are your immediate next steps in terms of monitoring, investigation, and management?
+Answer: Immediate priority is respiratory monitoring with regular bedside forced vital capacity (FVC) measurements and monitoring for autonomic instability (telemetry/blood pressure). Key investigations include a lumbar puncture (looking for albuminocytological dissociation), nerve conduction studies/EMG, and basic bloods (electrolytes, CK). Definitive management involves admission (often HDU/ITU level) and immunotherapy with intravenous immunoglobulin (IVIg) or plasma exchange, alongside supportive care and VTE prophylaxis.
+Mark Sheet
+Asks about Onset, progression, and timing of the weakness
+Asks about Distribution and symmetry of the weakness (e.g. distal vs proximal, both legs equally)
+Asks about Sensory symptoms: numbness, tingling, or pins and needles in the feet or hands
+Asks about Upper limb symptoms: weakness, clumsiness, or loss of grip strength
+Asks about Recent antecedent illness: specifically gastroenteritis, diarrhoea, or respiratory infection
+Asks about Respiratory involvement: breathlessness, orthopnoea, or difficulty completing sentences
+Asks about Bulbar symptoms: difficulty swallowing, chewing, or changes in speech
+Asks about Cranial nerve or facial symptoms: facial droop or double vision
+Asks about Autonomic symptoms: palpitations, dizziness, or light-headedness
+Asks about Spinal cord compression / cauda equina red flags: back pain, sensory level, or bowel/bladder dysfunction
+Asks about Systemic and infective symptoms: current fever, headache, or neck stiffness
+Asks about Past medical history
+Asks about Drug history and allergies: both
+Asks about Family history: neurological or autoimmune conditions
+Asks about Social history: at least two of occupation, alcohol, smoking, living arrangements, baseline mobility
+Asks about Ideas, concerns, and expectations
+Examiner’s Questions
+1- Identifies Guillain-Barré syndrome as the primary diagnosis
+2- States at least one appropriate neurological differential diagnosis (e.g. spinal cord compression, transverse myelitis, cauda equina syndrome, myasthenia gravis)
+3- Mentions monitoring respiratory function using forced vital capacity (FVC)

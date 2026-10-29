@@ -1,0 +1,47 @@
+hx-0010 | Gastrointestinal | Jaundice -> pancreatic cancer
+
+=== CANDIDATE INFORMATION ===
+You are in a GP surgery.
+Take a focused history from this patient with yellow skin and eyes.
+
+=== PATIENT INFORMATION ===
+You are in a GP surgery.
+Name: Derek Fletcher
+Age: 67 DOB: 28/01/1959
+After introductions, in response to the student’s opening question or comment, please say:
+"My wife noticed that my eyes and skin have turned yellow over the last couple of weeks."
+(Please ensure you use this wording every time, to ensure consistency)
+You are a retired civil engineer and generally keep in reasonable health. Over the last two to three weeks, your skin and the whites of your eyes have gradually become increasingly yellow. You had not really paid attention until your wife pointed it out in bright daylight. Over the same timeframe, your urine has turned noticeably dark brown, resembling strong tea, and your stools have become pale, clay-like, and difficult to flush away. You have also experienced widespread, frustrating skin itching all over your body, though there is no rash to see. For the past month or so, you have felt a dull, nagging ache in the upper part of your tummy that tends to bore through to your middle back. It feels slightly worse when you lie flat in bed and eases somewhat when you sit forward in your armchair. You have had little appetite lately and you have lost around seven kilograms without intending to over the last two months, noticing your trousers are much looser. You have not had any high fevers, rigors, shivers, or sudden severe spasms of tummy pain. You have had mild nausea and occasional bloating after meals, but no vomiting and no blood in your stools or vomit. You have had no recent overseas travel, no tattoos, no blood transfusions, and no known contact with anyone with liver infections. You were diagnosed with type 2 diabetes eight months ago by your GP, which surprised you as you were not overweight, and you have mild high blood pressure. You take metformin 500 mg twice daily and amlodipine 5 mg once daily. You do not take paracetamol regularly, have not started any new antibiotics, and take no over-the-counter supplements or herbal preparations. You have no drug allergies. You smoked 15 cigarettes a day for about 25 years but stopped six years ago. You drink around four to six units of alcohol across a typical week, mostly a pint of bitter at the weekend. You live with your wife in a two-storey house and are normally fully independent. Your father died of bowel cancer in his late seventies, and your mother died of heart disease. You are deeply worried that this could be a serious cancer because of the steady weight loss and yellow colour, and you are hoping the doctor will urgently arrange scans or hospital tests to find out what is going on.
+After the consultation has progressed a little please ask the following question
+“What do you think is the cause of this, and what tests will I need?”
+When a student asks a question not covered in the information provided, please give a vague or non-committal reply such as "I’m not sure about that", or "I can’t really remember".
+
+=== EXAMINER INFORMATION ===
+Questions
+1. What is the most likely diagnosis and what differential diagnoses would you consider in this patient?
+Answer: Most likely diagnosis is pancreatic cancer (head of pancreas adenocarcinoma causing obstructive jaundice). Differential diagnoses include cholangiocarcinoma / ampullary tumour, choledocholithiasis (gallstone obstruction), benign biliary stricture, or drug-induced/viral hepatitis.
+2. What initial investigations would you arrange to evaluate this patient?
+Answer: Urgent bloods (FBC, U&Es, LFTs showing obstructive/cholestatic picture, coagulation screen, CA 19-9) and urgent imaging such as an abdominal ultrasound scan or urgent triple-phase / pancreatic-protocol contrast-enhanced CT of the abdomen.
+3. If imaging confirms a mass in the head of the pancreas, how should this patient be managed?
+Answer: Urgent referral via the suspected cancer pathway (two-week wait) to the hepatobiliary multidisciplinary team (MDT); consideration of biliary decompression (e.g. ERCP with biliary stenting) for severe jaundice/pruritus; staging investigations; and assessment for surgical resection (e.g. Whipple procedure) versus palliative oncology care.
+Mark Sheet
+Asks about Onset, duration, and progression of the jaundice
+Asks about Urine colour changes (dark urine)
+Asks about Stool changes (pale, clay-coloured, or floating stools)
+Asks about Pruritus or generalized itching
+Asks about Abdominal pain: site, radiation to the back, and relieving factors
+Asks about Red flag constitutional symptoms: unintentional weight loss and anorexia
+Asks about Infective features: fever, rigors, or chills
+Asks about Upper gastrointestinal symptoms: nausea, vomiting, or early satiety
+Asks about Risk factors for viral hepatitis: travel history, transfusions, or exposure
+Asks about Alcohol consumption history
+Asks about Past medical history, specifically recent-onset diabetes or biliary disease
+Asks about Drug history, including paracetamol, antibiotics, over-the-counter or herbal remedies, and allergies
+Asks about Smoking history
+Asks about Family history of gastrointestinal or other malignancies
+Asks about Social history and functional baseline at home
+Asks about Ideas, concerns, and expectations
+Examiner’s Questions
+1- Identifies pancreatic cancer (or periampullary malignancy) as the primary differential diagnosis.
+2- Recommends urgent liver function tests and cross-sectional imaging (CT pancreas/abdomen or abdominal ultrasound).
+3- Mentions urgent specialist referral via suspected cancer pathway / hepatobiliary MDT and consideration of biliary stenting/decompression.
